@@ -17,7 +17,7 @@ public class Katze extends Tier implements streichelbar {
 	public void streicheln() {
 		// TODO Auto-generated method stub
 		System.out.println("Katze Wird gestreichelt und shnurrt!");
-		System.out.println("u re dead !!");
+//		System.out.println("u re dead !!");
 	}
 
 }
